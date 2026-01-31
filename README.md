@@ -47,5 +47,6 @@ This project demonstrates frontend development skills and effective use of AI to
 ## 🧪 Run Locally
 
 npm install
+
 npm run dev
 
